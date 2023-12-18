@@ -1,5 +1,18 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rajar12345</h1>
+<div>
+  <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello, I'm Rajar12345</h1>
+</div>
+
+
+### 🧑‍💻 About Me :
+
+- 🔭 I’m currently pursuing B.Tech in Computer Science & Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently exploring Web Development.
+- ⚡ I solve problems on LeetCode, GeeksforGeeks and read tech articles.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajdeep-kumar-shaw-54b690263/)
+- 😄 Pronouns: he/him
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhlNTBpa2NsNjRrcW9hMWRjNGp6d3MzZW85Y3NnaWZqdnNiaTJrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajar12345&label=Profile%20views&color=0e75b6&style=flat" alt="rajar12345" /> </p>
